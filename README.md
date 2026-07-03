@@ -2,14 +2,12 @@
 
 <p><em>Security Engineer — I build things, break them, and learn why.</em></p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Turtle.webp" alt="Turtle" width="28" height="28" > A little more about me...
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Turtle.webp" alt="Turtle" width="28" height="28" /> cat about_me.txt
 
 ```javascript
 const me = {
-  currentlyLearning: ["AI security"],
-  interests: ["Identity Access Management", "Cryptography","Secure Systems", "AI Security", Networking],  
+  code: ["python", "C", "SQL", "shell", "javascript"],
+  frameworks: ["flask", "react"],
+  interests: ["Identity & Access Management", "Cryptography", "Secure Systems", "Networking", "AI security"],
 }
 ```
-
-<br>
-<p align="center"><em>while(!there) keepClimbing();</em> 🏔️</p>
