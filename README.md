@@ -14,6 +14,7 @@ const me = {
                 "Secure Systems",
                 "Networking",
                 "AI security",
-                "Fuzzing"],
+                "Fuzzing"
+              ],
 }
 ```
