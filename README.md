@@ -7,24 +7,10 @@
 
 ```javascript
 const me = {
-  code: [
-          "python",
-          "C",
-          "shell",
-          "SQL",
-          "javascript"
-        ],
-  UI frameworks: [
-                    "flask",
-                    "react"
-                 ],
-  Experience: [
-                "Identity & Access Management",
-                "Cryptography",
-                "Secure Systems",
-                "Networking",
-                "AI security",
-                "Fuzzing"
+  frameworks: ["flask","react"],
+  code: ["python","C","shell","SQL","javascript"],
+  experience: ["Identity & Access Management","Cryptography",
+               "Secure Systems","Fuzzing","Networking","AI security"
               ],
 }
 ```
