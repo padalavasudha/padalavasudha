@@ -7,8 +7,17 @@
 
 ```javascript
 const me = {
-  code: ["python", "C", "shell", "SQL", "javascript"],
-  UI frameworks: ["flask", "react"],
+  code: [
+          "python",
+          "C",
+          "shell",
+          "SQL",
+          "javascript"
+        ],
+  UI frameworks: [
+                    "flask",
+                    "react"
+                 ],
   Experience: [
                 "Identity & Access Management",
                 "Cryptography",
