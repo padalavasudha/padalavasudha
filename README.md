@@ -9,6 +9,11 @@
 const me = {
   code: ["python", "C", "shell", "SQL", "javascript"],
   UI frameworks: ["flask", "react"],
-  Experience: ["Identity & Access Management", "Cryptography", "Secure Systems", "Networking", "AI security", "Fuzzing"],
+  Experience: ["Identity & Access Management",
+                "Cryptography",
+                "Secure Systems",
+                "Networking",
+                "AI security",
+                "Fuzzing"],
 }
 ```
