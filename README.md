@@ -6,10 +6,11 @@
 
 
 ```javascript
-const me = {
-  frameworks: ["flask","react"],
-  code: ["python","C","shell","SQL","javascript"],
-  experience: ["Identity & Access Management","Cryptography",
-               "Secure Systems","Fuzzing","Networking","AI security"],
-}
+const me =
+  {
+    frameworks: ["flask","react"],
+    code: ["python","C","shell","SQL","javascript"],
+    experience: ["Identity & Access Management","Cryptography",
+                 "Secure Systems","Fuzzing","Networking","AI security"],
+  }
 ```
