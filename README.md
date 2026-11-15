@@ -11,6 +11,6 @@ const me =
     frameworks: ["flask","react"],
     code: ["python","C","Bash","SQL","javascript"],
     experience: ["Identity & Access Management", "Cloud & AI Security","Cryptography",
-                 "Secure Systems","Fuzzing","Networking"],
+                 "Secure Systems","Fuzzing","Networking", "Vulnerability Management & Incident Handling"],
   }
 ```
