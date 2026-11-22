@@ -9,8 +9,8 @@
 const me =
   {
     frameworks: ["flask","react"],
-    code: ["python","C","Bash","SQL","JS","TS", "Rust"],
+    code: ["Python","C","Bash","SQL","JS","TS", "Rust"],
     experience: ["Identity & Access Management", "Cloud & AI Security","Cryptography",
-                 "Secure Systems","Fuzzing","Networking", "Vulnerability Management & Incident Handling"],
+                 "Secure Systems","Fuzzing","Networking", "Vulnerability Management & Incident Handling", "Threat Modeling"],
   }
 ```
